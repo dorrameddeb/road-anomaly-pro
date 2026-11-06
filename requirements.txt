@@ -1,0 +1,7 @@
+streamlit
+torch
+torchvision
+segmentation-models-pytorch
+opencv-python-headless
+pillow
+numpy
